@@ -3,6 +3,7 @@ const game = {
   biggestNum: 100,
   smallestNum: 1,
   secretNum: null,
+  guess: null,
   
   play: function() {
     this.secretNum = Math.floor(Math.random() * 

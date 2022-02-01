@@ -15,7 +15,7 @@ const game = {
        this.render()
        
       }while(this.userInput!== this.secretNum)
-      return 
+      ~
      
     }
 
